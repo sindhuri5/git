@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 52CD-9473
+
+ Directory of C:\Users\USER\Desktop\myprojects
+
+05/13/2018  11:09 PM    <DIR>          .
+05/13/2018  11:09 PM    <DIR>          ..
+05/13/2018  11:09 PM                 0 test.txt
+05/13/2018  11:05 PM               356 test1.txt
+               2 File(s)            356 bytes
+               2 Dir(s)  54,843,928,576 bytes free
